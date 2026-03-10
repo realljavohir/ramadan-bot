@@ -6,7 +6,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
 from aiogram.filters import Command
 
-TOKEN = "8383539672:AAHrMHQobXR8LptpiLpdD5kDwPsUxV2rQIU"  # Tokeningizni bu yerga qo'ying
+TOKEN = ""  # Tokeningizni bu yerga qo'ying
 ADMIN_ID = 6713905538  # sizning telegram ID
 
 bot = Bot(token=TOKEN)
